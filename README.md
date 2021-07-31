@@ -1,4 +1,4 @@
-![fondo RS (2)](https://media-exp1.licdn.com/dms/image/C4D16AQE8g06D6mdvtw/profile-displaybackgroundimage-shrink_200_800/0/1627693243258?e=1632960000&v=beta&t=f3dNI0YCr6DA3-FXxXTvxfOBRS9rT_8anbrncDQ7f1I)
+![fondo RS (2)](https://media-exp1.licdn.com/dms/image/C4D16AQEio36P_ZE2ZA/profile-displaybackgroundimage-shrink_200_800/0/1627694107032?e=1632960000&v=beta&t=kptxyczFywMIuzhgxjnoscdMacN5QO_Yt2tUwrtwBwI)
 
 <h1 align="center">Hi 👋, I'm katiuska</h1>
 <h3 align="center">FrontEnd JavaScript</h3>
