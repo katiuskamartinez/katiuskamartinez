@@ -1,4 +1,4 @@
-![fondo RS (2)](https://media-exp1.licdn.com/dms/image/C4D16AQEio36P_ZE2ZA/profile-displaybackgroundimage-shrink_200_800/0/1627694107032?e=1632960000&v=beta&t=kptxyczFywMIuzhgxjnoscdMacN5QO_Yt2tUwrtwBwI)
+![fondo RS (2)](https://www.linkedin.com/in/katiuska-martinez/detail/background-image/)
 
 <h1 align="center">Hi 👋, I'm katiuska</h1>
 <h3 align="center">FrontEnd JavaScript</h3>
