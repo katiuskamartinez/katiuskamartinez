@@ -1,4 +1,4 @@
-![fondo RS (2)](https://www.linkedin.com/in/katiuska-martinez/overlay/background-image/)
+![fondo](https://www.linkedin.com/in/katiuska-martinez/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm katiuska</h1>
 <h3 align="center">FrontEnd JavaScript</h3>
