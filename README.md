@@ -1,5 +1,6 @@
-![fondo](https://media-exp1.licdn.com/dms/image/C4D16AQHh-VZ4_PRsMQ/profile-displaybackgroundimage-shrink_350_1400/0/1632451496237?e=1652313600&v=beta&t=E-2eBbD8qhKc0J5iUmDk7hULcuwgmKUdBJw-UKno9tE)
+<!-- ![fondo](./Assets/banner-gochitadev.png) -->
 
+[banner](./index.html)
 
 <h1 align="center">Hi 👋, I'm katiuska</h1>
 <h3 align="center">FrontEnd JavaScript</h3>
