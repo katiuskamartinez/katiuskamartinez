@@ -1,6 +1,4 @@
-<!-- ![fondo](./Assets/banner-gochitadev.png) -->
-
-[banner](./index.html)
+![fondo](./Assets/banner-gochitadev.png)
 
 <h1 align="center">Hi 👋, I'm katiuska</h1>
 <h3 align="center">FrontEnd JavaScript</h3>
