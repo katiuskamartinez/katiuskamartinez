@@ -1,5 +1,6 @@
 ![fondo](./Assets/banner-gochitadev.png)
 
+<img src="./Assets/butterfly - copia.svg" alt="buterfly">
 <h1 align="center">Hi 👋, I'm katiuska</h1>
 <h3 align="center">FrontEnd JavaScript</h3>
 
