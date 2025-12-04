@@ -1,4 +1,4 @@
-![fondo](./Assets/github.png)
+![fondo](./Assets/banner_github.png)
 
 <img src="./Assets/butterfly - copia.svg" alt="buterfly">
 <h1 align="center">Frontend Dev</h1>
