@@ -1,10 +1,12 @@
-# ¡Hola! Soy [ Katiuska Martinez ] 👋
+# ¡Hola! Soy Katiuska Martinez 👋
 
-  ### 🤖 Sobre mí
-  Soy una desarrolladora enfocado en el **Machine Learning** . Me apasiona transformar datos en soluciones inteligentes y construir herramientas que simplifiquen problemas complejos. 
-  ---
+### 🤖 Sobre mí
 
-  ### 🛠️ Tecnologías y Herramientas
+Soy una desarrolladora enfocado en el **Machine Learning** . Me apasiona transformar datos en soluciones inteligentes y construir herramientas que simplifiquen problemas complejos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
 
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
@@ -13,11 +15,12 @@
       alt="JavaScript" />
   </p>
 
-  * **Desarrollo:** Creación de interfaces dinámicas e integraciones de API utilizando **JavaScript**.
+- **Desarrollo:** Creación de interfaces dinámicas e integraciones de API utilizando **JavaScript**.
 
-  ---
+---
 
-  ### 📫 Conectemos
+### 📫 Conectemos
+
   <p align="left">
     <a href="https://www.linkedin.com/in/katiuska-martinez/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
