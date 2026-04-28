@@ -7,10 +7,156 @@
   <title>banner github</title>
   <link rel="stylesheet" href="./styles.css">
 </head>
+<style>
+  .ai-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+  }
+
+  /* Nodos principales */
+  .node {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background-color: #58a6ff;
+    /* Azul GitHub */
+    border-radius: 50%;
+    animation: pulse 2s infinite ease-in-out;
+  }
+
+  /* Posiciones de los nodos */
+  .node1 {
+    top: 10px;
+    left: 44px;
+  }
+
+  .node2 {
+    top: 44px;
+    left: 10px;
+    animation-delay: 0.5s;
+  }
+
+  .node3 {
+    top: 44px;
+    right: 10px;
+    animation-delay: 1s;
+  }
+
+  .node4 {
+    bottom: 10px;
+    left: 44px;
+    animation-delay: 1.5s;
+  }
+
+  /* Líneas de conexión */
+  .line {
+    position: absolute;
+    background-color: rgba(88, 166, 255, 0.3);
+    transform-origin: left center;
+  }
+
+  .line1-2 {
+    top: 16px;
+    left: 50px;
+    width: 50px;
+    height: 1px;
+    transform: rotate(135deg);
+  }
+
+  .line1-3 {
+    top: 16px;
+    left: 50px;
+    width: 50px;
+    height: 1px;
+    transform: rotate(45deg);
+  }
+
+  .line2-4 {
+    bottom: 16px;
+    left: 16px;
+    width: 50px;
+    height: 1px;
+    transform: rotate(45deg);
+  }
+
+  .line3-4 {
+    bottom: 16px;
+    right: 16px;
+    width: 50px;
+    height: 1px;
+    transform: rotate(135deg);
+  }
+
+  /* Animación de pulso */
+  @keyframes pulse {
+
+    0%,
+    100% {
+      transform: scale(1);
+      box-shadow: 0 0 0 0 rgba(88, 166, 255, 0.7);
+    }
+
+    50% {
+      transform: scale(1.2);
+      box-shadow: 0 0 10px 4px rgba(88, 166, 255, 0.4);
+    }
+  }
+</style>
 
 <body>
-  <img src="./Assets/github.png" alt="">
-  <span class="bug"></span>
+
+  # ¡Hola! Soy [ Katiuska Martinez ] 👋
+
+  <div class="ai-container">
+    <div class="line line1-2"></div>
+    <div class="line line1-3"></div>
+    <div class="line line2-4"></div>
+    <div class="line line3-4"></div>
+
+    <div class="node node1"></div>
+    <div class="node node2"></div>
+    <div class="node node3"></div>
+    <div class="node node4"></div>
+  </div>
+
+  ### 🤖 Sobre mí
+  Soy un desarrollador enfocado en el **Machine Learning** y la inteligencia artificial. Me apasiona transformar datos
+  en soluciones inteligentes y construir herramientas que simplifiquen problemas complejos. Siempre estoy explorando
+  nuevas
+  formas de optimizar algoritmos y mejorar la eficiencia del software.
+
+  ---
+
+  ### 🛠️ Tecnologías y Herramientas
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="JavaScript" />
+  </p>
+
+  * **IA & Data Science:** Especializado en modelos predictivos y procesamiento de datos con **Python**.
+  * **Desarrollo:** Creación de interfaces dinámicas e integraciones de API utilizando **JavaScript**.
+
+  ---
+
+  ### 📈 Mis Estadísticas
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=katiuskamartinez&show_icons=true&theme=radical&hide_border=true"
+      alt="GitHub Stats" />
+  </p>
+
+  ---
+
+  ### 📫 Conectemos
+  <p align="left">
+    <a href="https://www.linkedin.com/in/katiuska-martinez/" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="LinkedIn" height="30" width="40" /></a>
+  </p>
 </body>
 
 </html>
